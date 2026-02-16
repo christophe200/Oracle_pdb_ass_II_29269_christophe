@@ -23,7 +23,7 @@ The tasks involved creating, managing, and deleting PDBs, creating users inside 
 ---
 
  **Oracle Environment Used**
-- **Oracle Database Version:** Oracle 19c  
+- **Oracle Database Version:** Oracle 21c  
 - **Architecture:** Multitenant Container Database (CDB & PDB)  
 - **Tools Used:**
   - SQL*Plus / SQL Developer
@@ -83,6 +83,8 @@ Screenshots included:
 
 **Configuration and Access**
 Oracle Enterprise Manager was successfully accessed through the web interface.
+![Image AET](https://github.com/christophe200/Oracle_pdb_ass_II_29269_christophe/blob/9bd6b3e5211c04b04b2c82763f282cb875ab5d0c/plsql/OEM%20DASH1.png)
+---
 
 **Dashboard Verification**
 The OEM dashboard displayed:
@@ -91,7 +93,7 @@ The OEM dashboard displayed:
 - System status and database components
 
 A clear screenshot of the OEM dashboard is included in the `screenshots/` folder.
-![Image AET](https://github.com/christophe200/Oracle_pdb_ass_II_29269_christophe/blob/9bd6b3e5211c04b04b2c82763f282cb875ab5d0c/plsql/OEM%20DASH1.png)
+
 ---
 
 **Challenges Faced and Solutions**
