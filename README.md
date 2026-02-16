@@ -33,12 +33,6 @@ The tasks involved creating, managing, and deleting PDBs, creating users inside 
 ---
 
 **Task 1: Creation of a New Pluggable Database**
-
-**Naming Conventions Used**
-- **PDB Name:** `ch_pdb_29269`  
-- **Username Inside PDB:** `christophe_plsqlauca_29269`  
-- **Password:** `matata`  
-
 **Steps Performed**
 1. Connected to the Container Database (CDB) as SYSDBA.
 2. Created the pluggable database using the required naming format.
