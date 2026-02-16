@@ -41,7 +41,7 @@ The tasks involved creating, managing, and deleting PDBs, creating users inside 
 5. Switched session to the created PDB.
 6. Created the required user inside the PDB.
 7. Granted necessary privileges for future coursework.
-
+![Image AET](https://github.com/christophe200/Oracle_pdb_ass_II_29269_christophe/blob/14303d245aafc783bed205e74f56be176df2927f/plsql/CREATING%20PDB.png)
 **Verification**
 - Verified PDB creation using `SHOW PDBS`
 - Confirmed open mode of the PDB
