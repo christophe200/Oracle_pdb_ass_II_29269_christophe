@@ -91,7 +91,7 @@ The OEM dashboard displayed:
 - System status and database components
 
 A clear screenshot of the OEM dashboard is included in the `screenshots/` folder.
-
+![Image AET](https://github.com/christophe200/Oracle_pdb_ass_II_29269_christophe/blob/9bd6b3e5211c04b04b2c82763f282cb875ab5d0c/plsql/OEM%20DASH1.png)
 ---
 
 **Challenges Faced and Solutions**
