@@ -52,7 +52,7 @@ Screenshots provided in the `screenshots/` folder:
 - PDB creation command result
 - PDB open state
 - User creation with visible username
-
+![Image AET](https://github.com/christophe200/Oracle_pdb_ass_II_29269_christophe/blob/18a203118ed1ba64d8bfa0a5dc9afd8160e2ec77/plsql/CREATING%20USER.png)
 ---
 
 **Task 2: Create and Delete a Temporary PDB**
