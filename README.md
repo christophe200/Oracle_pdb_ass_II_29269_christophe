@@ -76,7 +76,7 @@ Screenshots included:
 - Temporary PDB creation
 - Temporary PDB deletion
 - Confirmation that the PDB no longer exists
-
+![Image AET](https://github.com/christophe200/Oracle_pdb_ass_II_29269_christophe/blob/ede1d043e4b31cfe4101e0a17ccb3d3dd09627c2/plsql/CREATING%20AND%20DELETING%20TEMP%20PDB.png)
 ---
 
  **Task 3: Oracle Enterprise Manager (OEM)**
